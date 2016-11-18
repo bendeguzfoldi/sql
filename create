@@ -1,0 +1,10 @@
+CREATE TABLE dolgozok
+(
+dolg_id int,
+vez_nev varchar(255),
+ker_nev varchar(255),
+szul_ev int,
+osztaly varchar(255),
+fiz int,
+PRIMARY KEY (dolg_id)
+);

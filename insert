@@ -1,0 +1,6 @@
+INSERT INTO dolgozok (dolg_id,vez_nev,ker_nev,szul_ev,osztaly,fiz)
+VALUES
+("1","Kiss","Janos","1970","logisztika","200000"),
+("2","Kovacs","Imre","1968","karbantartas","180000"),
+("3","Nagy","Andras","1980","gyartas","280000"),
+("4","Kovacs","Dora","1975","takaritas","150000");
